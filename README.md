@@ -1,2 +1,2 @@
-# P4-PERCABANGAN
-PERCABANGAN DALAM JAVA
+# P4-Percabangan
+Percabangan Dalam Java
